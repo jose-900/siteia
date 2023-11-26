@@ -229,6 +229,7 @@ h3{
 }
 .facilities p{
     color: #160e0e;
+    font-size: 25px;
 }
 .facilities-col{
     flex-basis: 31;
